@@ -1,0 +1,7 @@
+#Wed Nov 20 02:12:14 NOVT 2019
+base.0=C\:\\Users\\lukia\\Documents\\android-geophysics\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\lukia\\Documents\\android-geophysics\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

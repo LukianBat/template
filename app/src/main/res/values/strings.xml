@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android-geophysics</string>
+    <string name="error_message">Что-то пошло не так..</string>
+    <string name="loading_message">Ищем что-нибудь интересное</string>
+    <string name="ok_button_text">Ок</string>
+
+</resources>

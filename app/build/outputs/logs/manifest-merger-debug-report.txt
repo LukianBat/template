@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e30d35fe611e5e57f54837a8d14e9ace\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f20e54867872d091c4d7421e8bc9d881\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.AppIntro:AppIntro:5.1.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\37f452e5a4013392ee62001ba88768df\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.dagger:dagger-android-support:2.22.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\573bb7957656c520ae2fd985fb459f4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f1f6ddf0e270bda377c0940f3a61bec0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b778c2029888ce0639d8b5159c09383b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\58851f5b8082fd96c497552abc68f87d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\900794f6ee40db794078fe79d169ae8d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\236fc7b6a41f3ab72318fbdd177e4a9b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\4cc2763929857123677cad25bf154f98\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\9effc372636dd8eea584fe1fc83ef6f0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:17:1-38:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f947458f6b0b5e4126318ef1255d1b00\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.room:room-rxjava2:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\8d09d0c03dba259e41e433bc5f524bb7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android:2.22.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\7b9a91e1e526241fd57d1b8f6521ddb1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f857175adc7c85ff6f0bd3634687e511\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8fc13211beeceb7767e817c4116132e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\15ff847cfd73376a8c51a3a67bd9a597\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b212ddea60ba7b7177e51949995f6c48\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\93d465a61cf603cbf3a321db9e7b9e35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2248807542cd16541b697ff13b42f506\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\381ebdf3e00d9705f705b218f61b61f7\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5cf47c35edbe28096fea7dd0df9aeb00\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\24c6f1ac9880d1f3871e86725eac233a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\4d9279850391e578d76764f3fd1ab44d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e35ffc80b1bbe876addd828f50c681a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1927e831c9f22fbac740f56239b82b6c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\91d4f5458e71a738bbd010853a4ce0be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\569586c8f9bc5b3d9799229b4e3558a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\a49e2cbf96db902c13f406b6ab0d7b3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\907adf68d28e17b1268f6f9cfeb9a1f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2c730db67991f459827967e6ad14638a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\98e6e68f2fa38e04629ce5551589c755\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3baae08780356443f0996ae266ecfd35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d8f0daabb9d7f73c3be13cf8a39590cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d280688c86f8a589de8e1ecc2b54bc59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\250da4f662a5b772935638c567d1c800\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\9f62f8ea24fba9c034347149fb9abe29\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f2590b831710f94135bb56d1baf0d0ee\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\157ef8108f83544556dea60472ad9e1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\7b70fe36aa862317bc555e6197117bd9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5652d1e8aec3ff9925c21f8cdaebc852\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e7a32912535ee14cb659b95a74576a09\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\954350a2408fe781aba3770f7eef335d\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\0df8100e4f305c4c5210c4b8276ff69e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\c39be1ba6d8f9710e9ab58b477f663d8\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1938cca6bcb2eaee77eedf6db168e5f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1b960fcdd9c64800a1f6109d86eb04fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\bb53cfdc5ee640b37a1f8601a275ac21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3126f54b41b1f42da55c1967694d2c6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\0b2287168a4f2972b6bea184496596b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3edec10f01f32da81520a35b77ad42a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f515c5d31c3750553dbeb7514d7d120a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\681da4a15563f19fbe7cc2f118d17b6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\805d9f7c70f5a36ce0a63d5b7a0ce9aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\fb2f05a4988ba2912a2dd155b0b23f76\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2cae413980930fee51b34ce2d277c13c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\47c97a01b5ecd0b1e923172eb4cba04d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5a5a44f80119fdc6da9ccb1a3c1ef614\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:4:9-51
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:3:9-55
+	android:versionCode
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [com.github.AppIntro:AppIntro:5.1.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\37f452e5a4013392ee62001ba88768df\AndroidManifest.xml:11:5-20
+MERGED from [com.github.AppIntro:AppIntro:5.1.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\37f452e5a4013392ee62001ba88768df\AndroidManifest.xml:11:5-20
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f1f6ddf0e270bda377c0940f3a61bec0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f1f6ddf0e270bda377c0940f3a61bec0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\900794f6ee40db794078fe79d169ae8d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\900794f6ee40db794078fe79d169ae8d\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\9effc372636dd8eea584fe1fc83ef6f0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\9effc372636dd8eea584fe1fc83ef6f0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:30:5-36:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f857175adc7c85ff6f0bd3634687e511\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f857175adc7c85ff6f0bd3634687e511\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b212ddea60ba7b7177e51949995f6c48\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b212ddea60ba7b7177e51949995f6c48\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2248807542cd16541b697ff13b42f506\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2248807542cd16541b697ff13b42f506\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\381ebdf3e00d9705f705b218f61b61f7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\381ebdf3e00d9705f705b218f61b61f7\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\954350a2408fe781aba3770f7eef335d\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\954350a2408fe781aba3770f7eef335d\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\c39be1ba6d8f9710e9ab58b477f663d8\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\c39be1ba6d8f9710e9ab58b477f663d8\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\954350a2408fe781aba3770f7eef335d\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:10:13-45
+	tools:ignore
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:14:13-52
+	android:roundIcon
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:13:13-44
+	android:name
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:7:13-69
+activity#com.education.android.geophysics.feature.calculate.presentation.CalculateActivity
+ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:17:17-53
+	android:name
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:16:17-113
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:18:13-21:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:19:27-74
+action#android.intent.action.MAIN
+ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml:20:25-66
+uses-sdk
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e30d35fe611e5e57f54837a8d14e9ace\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e30d35fe611e5e57f54837a8d14e9ace\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f20e54867872d091c4d7421e8bc9d881\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f20e54867872d091c4d7421e8bc9d881\AndroidManifest.xml:22:5-44
+MERGED from [com.github.AppIntro:AppIntro:5.1.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\37f452e5a4013392ee62001ba88768df\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AppIntro:AppIntro:5.1.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\37f452e5a4013392ee62001ba88768df\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.dagger:dagger-android-support:2.22.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\573bb7957656c520ae2fd985fb459f4f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.22.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\573bb7957656c520ae2fd985fb459f4f\AndroidManifest.xml:20:5-44
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f1f6ddf0e270bda377c0940f3a61bec0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f1f6ddf0e270bda377c0940f3a61bec0\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b778c2029888ce0639d8b5159c09383b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b778c2029888ce0639d8b5159c09383b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\58851f5b8082fd96c497552abc68f87d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\58851f5b8082fd96c497552abc68f87d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\900794f6ee40db794078fe79d169ae8d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\900794f6ee40db794078fe79d169ae8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\236fc7b6a41f3ab72318fbdd177e4a9b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\236fc7b6a41f3ab72318fbdd177e4a9b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\4cc2763929857123677cad25bf154f98\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\4cc2763929857123677cad25bf154f98\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\9effc372636dd8eea584fe1fc83ef6f0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\9effc372636dd8eea584fe1fc83ef6f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f947458f6b0b5e4126318ef1255d1b00\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f947458f6b0b5e4126318ef1255d1b00\AndroidManifest.xml:18:5-43
+MERGED from [androidx.room:room-rxjava2:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\8d09d0c03dba259e41e433bc5f524bb7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\8d09d0c03dba259e41e433bc5f524bb7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-android:2.22.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\7b9a91e1e526241fd57d1b8f6521ddb1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.22.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\7b9a91e1e526241fd57d1b8f6521ddb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f857175adc7c85ff6f0bd3634687e511\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f857175adc7c85ff6f0bd3634687e511\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8fc13211beeceb7767e817c4116132e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8fc13211beeceb7767e817c4116132e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\15ff847cfd73376a8c51a3a67bd9a597\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\15ff847cfd73376a8c51a3a67bd9a597\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b212ddea60ba7b7177e51949995f6c48\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b212ddea60ba7b7177e51949995f6c48\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\93d465a61cf603cbf3a321db9e7b9e35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\93d465a61cf603cbf3a321db9e7b9e35\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2248807542cd16541b697ff13b42f506\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2248807542cd16541b697ff13b42f506\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\381ebdf3e00d9705f705b218f61b61f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\381ebdf3e00d9705f705b218f61b61f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5cf47c35edbe28096fea7dd0df9aeb00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5cf47c35edbe28096fea7dd0df9aeb00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\24c6f1ac9880d1f3871e86725eac233a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\24c6f1ac9880d1f3871e86725eac233a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\4d9279850391e578d76764f3fd1ab44d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\4d9279850391e578d76764f3fd1ab44d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e35ffc80b1bbe876addd828f50c681a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e35ffc80b1bbe876addd828f50c681a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1927e831c9f22fbac740f56239b82b6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1927e831c9f22fbac740f56239b82b6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\91d4f5458e71a738bbd010853a4ce0be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\91d4f5458e71a738bbd010853a4ce0be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\569586c8f9bc5b3d9799229b4e3558a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\569586c8f9bc5b3d9799229b4e3558a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\a49e2cbf96db902c13f406b6ab0d7b3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\a49e2cbf96db902c13f406b6ab0d7b3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\907adf68d28e17b1268f6f9cfeb9a1f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\907adf68d28e17b1268f6f9cfeb9a1f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2c730db67991f459827967e6ad14638a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2c730db67991f459827967e6ad14638a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\98e6e68f2fa38e04629ce5551589c755\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\98e6e68f2fa38e04629ce5551589c755\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3baae08780356443f0996ae266ecfd35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3baae08780356443f0996ae266ecfd35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d8f0daabb9d7f73c3be13cf8a39590cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d8f0daabb9d7f73c3be13cf8a39590cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d280688c86f8a589de8e1ecc2b54bc59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d280688c86f8a589de8e1ecc2b54bc59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\250da4f662a5b772935638c567d1c800\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\250da4f662a5b772935638c567d1c800\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\9f62f8ea24fba9c034347149fb9abe29\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\9f62f8ea24fba9c034347149fb9abe29\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f2590b831710f94135bb56d1baf0d0ee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f2590b831710f94135bb56d1baf0d0ee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\157ef8108f83544556dea60472ad9e1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\157ef8108f83544556dea60472ad9e1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\7b70fe36aa862317bc555e6197117bd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\7b70fe36aa862317bc555e6197117bd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5652d1e8aec3ff9925c21f8cdaebc852\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5652d1e8aec3ff9925c21f8cdaebc852\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e7a32912535ee14cb659b95a74576a09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\e7a32912535ee14cb659b95a74576a09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\954350a2408fe781aba3770f7eef335d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\954350a2408fe781aba3770f7eef335d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\0df8100e4f305c4c5210c4b8276ff69e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\0df8100e4f305c4c5210c4b8276ff69e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\c39be1ba6d8f9710e9ab58b477f663d8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\c39be1ba6d8f9710e9ab58b477f663d8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1938cca6bcb2eaee77eedf6db168e5f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1938cca6bcb2eaee77eedf6db168e5f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1b960fcdd9c64800a1f6109d86eb04fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\1b960fcdd9c64800a1f6109d86eb04fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\bb53cfdc5ee640b37a1f8601a275ac21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\bb53cfdc5ee640b37a1f8601a275ac21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3126f54b41b1f42da55c1967694d2c6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3126f54b41b1f42da55c1967694d2c6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\0b2287168a4f2972b6bea184496596b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\0b2287168a4f2972b6bea184496596b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3edec10f01f32da81520a35b77ad42a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\3edec10f01f32da81520a35b77ad42a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f515c5d31c3750553dbeb7514d7d120a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f515c5d31c3750553dbeb7514d7d120a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\681da4a15563f19fbe7cc2f118d17b6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\681da4a15563f19fbe7cc2f118d17b6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\805d9f7c70f5a36ce0a63d5b7a0ce9aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\805d9f7c70f5a36ce0a63d5b7a0ce9aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\fb2f05a4988ba2912a2dd155b0b23f76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\fb2f05a4988ba2912a2dd155b0b23f76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2cae413980930fee51b34ce2d277c13c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\2cae413980930fee51b34ce2d277c13c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\47c97a01b5ecd0b1e923172eb4cba04d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\47c97a01b5ecd0b1e923172eb4cba04d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5a5a44f80119fdc6da9ccb1a3c1ef614\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\5a5a44f80119fdc6da9ccb1a3c1ef614\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lukia\Documents\android-geophysics\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f1f6ddf0e270bda377c0940f3a61bec0\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f1f6ddf0e270bda377c0940f3a61bec0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f1f6ddf0e270bda377c0940f3a61bec0\AndroidManifest.xml:28:13-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\971256d49b8674253b4062569424c1f1\AndroidManifest.xml:34:13-50
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b212ddea60ba7b7177e51949995f6c48\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b212ddea60ba7b7177e51949995f6c48\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\b212ddea60ba7b7177e51949995f6c48\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\f8a04aa7b454eda47c7549a33b0b10f2\AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\d232a7a20f72aee92369ba3f29ec5016\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\381ebdf3e00d9705f705b218f61b61f7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\381ebdf3e00d9705f705b218f61b61f7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lukia\.gradle\caches\transforms-2\files-2.1\381ebdf3e00d9705f705b218f61b61f7\AndroidManifest.xml:24:13-58
